@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50136" started-at="2020-11-03T13:06:32 IST" finished-at="2020-11-03T13:07:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50136" started-at="2020-11-03T13:06:32 IST" finished-at="2020-11-03T13:07:22 IST">
+      <class name="Smoke_Test.Single_Card_Creation">
+        <test-method status="PASS" signature="Single_Card()[pri:0, instance:Smoke_Test.Single_Card_Creation@4c178a76]" name="Single_Card" duration-ms="50090" started-at="2020-11-03T13:06:32 IST" finished-at="2020-11-03T13:07:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Single_Card -->
+      </class> <!-- Smoke_Test.Single_Card_Creation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
